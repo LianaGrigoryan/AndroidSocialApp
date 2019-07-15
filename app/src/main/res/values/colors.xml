@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#62a4ff</color>
+    <color name="colorPrimaryDark">#e2e2e2</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="signin">#62a4ff</color>
+    <color name="registertext">#62a4ff</color>
+    <color name="background_color">#009688</color>
+    <color name="white">#c21414</color>
+    <color name="black">#000000</color>
+    <color name="white_greyish">#250e0e</color>
+    <color name="button_selectorcolor">#9E9E9E</color>
+
+</resources>
